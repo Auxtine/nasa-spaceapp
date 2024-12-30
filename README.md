@@ -13,7 +13,7 @@ Built with **React** for the front-end, this app fetches the daily image and des
 
 
 ## Live Demo
-Check out the deployed project: [Daily NASA Space Image Web App](https://nasa-spaceapp.vercel.app)
+Check out the deployed project: [Space App with NASA Images](https://nasa-spaceapp.vercel.app)
 
 ## Technologies Used
 - React
