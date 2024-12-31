@@ -18,3 +18,6 @@ Check out the deployed project: [Space App with NASA Images](https://nasa-spacea
 ## Technologies Used
 - React
 - NASA API (Astronomy Picture of the Day - APOD)
+
+<!-- npm run build
+npm run dev -->
